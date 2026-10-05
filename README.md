@@ -1,6 +1,7 @@
 # Hi, I'm Rendi Ramadhan👋
 
 🎓 Informatics Student at Telkom University
+
 💻 Interested in Programming, Networking & Cloud  
 🐧 Currently learning Go & Linux
 
