@@ -4,7 +4,7 @@
 💻 Interested in Programming, Networking & Cloud  
 🐧 Currently learning Go & Linux
 
-## Currently Learning
+# Currently Learning
 - Go
 - Linux
 - Git & GitHub
